@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arian
 - 👀 I’m interested in game development and design
-- 🌱 I’m currently learning Swift programming language
+- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on game development projects 
 - 📫 Reach me at ariannajafi@outlook.com
 
