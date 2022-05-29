@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arian
 - 👀 I’m interested in game development and design
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Discord
 - 📫 Reach me at ariannajafi@outlook.com
 
