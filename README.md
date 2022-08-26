@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m Arian
 - 👀 I’m interested in game development and design
 - 🌱 I’m currently learning C#
