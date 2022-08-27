@@ -16,15 +16,16 @@ I'm a final year IT student at RMIT University of Melbourne, passionate about le
   
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ary-na&count_private=true&theme=tokyonight&showicons=true)]()
   <!---[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&langs_count=10&theme=tokyonight)]()--->
-  <br />
 
 </div>
+<br />
 
 ## Reach me
 
 📧 Email: ariannajafi@outlook.com<br />
-🔹 LinkedIn: https://www.linkedin.com/in/arian-najafi-yamchelo/<br /><br />
+🔹 LinkedIn: https://www.linkedin.com/in/arian-najafi-yamchelo/<br />
 
+<br />
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ary-na&style=flat-round&color=blue" alt="Profile views"/>
 </div>
