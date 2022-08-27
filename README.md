@@ -20,7 +20,7 @@ I'm a final year IT student at RMIT University of Melbourne, passionate about le
 
 ## Reach me
 
-💌 Email: ariannajafi@outlook.com<br />
+📧 Email: ariannajafi@outlook.com<br />
 🔹 LinkedIn: https://www.linkedin.com/in/arian-najafi-yamchelo/<br /><br />
 
 <div id="badges" align="center">
