@@ -14,7 +14,7 @@ I'm a final year IT student at RMIT University of Melbourne, passionate about le
 <br />
 <div align="center">
   
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&langs_count=5&theme=tokyonight)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&langs_count=10&theme=tokyonight)]()
   
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ary-na&count_private=true&theme=tokyonight&showicons=true)]()
 
