@@ -4,10 +4,10 @@
 
 # 👋 Hi, I’m Arian
 
-I'm a final year IT student at RMIT University of Melbourne, passionate about learning everything technology and expanding my knowledge. 
+I'm an IT graduate passionate about learning everything about technology and expanding my knowledge. 
 
-👀 I’m interested in Web Design and Development<br/>
-🌱 I’m currently learning Artificial Intelligence and Django<br/>
+👀 I’m interested in Web Development<br/>
+🌱 I’m currently learning Artificial Intelligence<br/>
 
 ## Stats
 
@@ -19,12 +19,6 @@ I'm a final year IT student at RMIT University of Melbourne, passionate about le
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ary-na&count_private=true&theme=tokyonight&showicons=true)]()
 
 </div>
-<br />
-
-## Reach me
-
-📧 Email: ariannajafi@outlook.com<br />
-🔹 LinkedIn: https://www.linkedin.com/in/arian-najafi-yamchelo/<br />
 
 <br />
 <div id="badges" align="center">
