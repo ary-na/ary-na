@@ -83,13 +83,6 @@ AI/ML, UI/UX Design, Data Science, Software Development
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=dark&hide_border=false" />
 </div>
 
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'ArianNYamchelo' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ArianNYamchelo" /></a>
-</div>
-
 ## 💻 Tech Stack
 
 ```json
