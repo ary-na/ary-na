@@ -2,50 +2,30 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-# Arian Najafi Yamchelo
+<div align="center">
 
-```typescript
-const profile = {
-  name: "Arian Najafi Yamchelo",
-  bio: "Master’s graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.",
-  currentWork: "Working on an interactive social media platform with a focus on gamified experiences.",
-  learning: "Develop proficiency in R programming for data science applications.",
-  interests: "AI/ML,UI/UX Design,Data Science,Software Development",
-  skills: [
-    "React",
-    "Vue.js",
-    "Bootstrap",
-    "Node.js",
-    "Express",
-    "Django",
-    "MongoDB",
-    "PostgreSQL",
-    "Docker",
-    "AWS",
-    "GitHub Actions",
-    "Keras",
-    "TensorFlow",
-    "PyTorch",
-    "Hugging Face",
-    "TypeScript",
-    "Python",
-    "R",
-    "C++"
-  ],
-}
-```
+# 🌟 Welcome to Arian Najafi Yamchelo's Profile 🌟
+
+<p><em>Master’s graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 🔭 I'm currently working on
 
-Working on an interactive social media platform with a focus on gamified experiences.
+<div align="center"><p>Working on an interactive social media platform with a focus on gamified experiences.</p></div>
 
 ## 🌱 I'm currently learning
 
-Develop proficiency in R programming for data science applications.
+<div align="center"><p>Develop proficiency in R programming for data science applications.</p></div>
 
 ## 👀 I'm interested in
 
-AI/ML, UI/UX Design, Data Science, Software Development
+<div align="center"><p>AI/ML, UI/UX Design, Data Science, Software Development</p></div>
 
 ## 👀 Visitor Count
 
@@ -59,28 +39,28 @@ AI/ML, UI/UX Design, Data Science, Software Development
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=radical&hide_border=false" />
 </div>
 
 ## 🐦 Latest Tweet
@@ -92,67 +72,53 @@ AI/ML, UI/UX Design, Data Science, Software Development
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "React",
-    "Vue.js",
-    "Bootstrap"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "Django",
-    "MongoDB",
-    "PostgreSQL"
-  ],
-  "devops": [
-    "Docker",
-    "AWS",
-    "GitHub Actions"
-  ],
-  "ai/ml": [
-    "Keras",
-    "TensorFlow",
-    "PyTorch",
-    "Hugging Face"
-  ],
-  "languages": [
-    "TypeScript",
-    "Python",
-    "R",
-    "C++"
-  ]
-}
-```
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Hugging Face-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "ary-na",
-  linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
-  twitter: "ArianNYamchelo",
-  website: "ariannyamchelo.netlify.app",
-  dribbble: "ArianNYamchelo",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/ArianNYamchelo"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="ariannyamchelo.netlify.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a> 
+<a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/ArianNYamchelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "ariannajafi@outlook.com",
-}
-```
+<div align="center">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+**Email:** ariannajafi@outlook.com
 
-process.exit(0); // Until next time 👋
-```
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=ary-na&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/ary-na?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
