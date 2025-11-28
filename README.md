@@ -2,27 +2,50 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
+# Arian Najafi Yamchelo
 
-# ✨ Arian Najafi Yamchelo ✨
-
-<p><em>Master’s graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.</em></p>
-
-<hr>
-
-</div>
+```typescript
+const profile = {
+  name: "Arian Najafi Yamchelo",
+  bio: "Master’s graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.",
+  currentWork: "Working on an interactive social media platform with a focus on gamified experiences.",
+  learning: "Develop proficiency in R programming for data science applications.",
+  interests: "AI/ML,UI/UX Design,Data Science,Software Development",
+  skills: [
+    "React",
+    "Vue.js",
+    "Bootstrap",
+    "Node.js",
+    "Express",
+    "Django",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "GitHub Actions",
+    "Keras",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face",
+    "TypeScript",
+    "Python",
+    "R",
+    "C++"
+  ],
+}
+```
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Working on an interactive social media platform with a focus on gamified experiences.</p></div>
+Working on an interactive social media platform with a focus on gamified experiences.
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Develop proficiency in R programming for data science applications.</p></div>
+Develop proficiency in R programming for data science applications.
 
 ## 👀 I'm interested in
 
-<div align="center"><p>AI/ML, UI/UX Design, Data Science, Software Development</p></div>
+AI/ML, UI/UX Design, Data Science, Software Development
 
 ## 👀 Visitor Count
 
@@ -36,28 +59,28 @@
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=flat&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=buefy&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=dark&hide_border=false" />
 </div>
 
 ## 🐦 Latest Tweet
@@ -69,48 +92,67 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-**🎨 Frontend**
-
-`React` • `Vue.js` • `Bootstrap`
-
-**⚙️ Backend**
-
-`Node.js` • `Express` • `Django` • `MongoDB` • `PostgreSQL`
-
-**🚀 DevOps**
-
-`Docker` • `AWS` • `GitHub Actions`
-
-**🧠 AI/ML**
-
-`Keras` • `TensorFlow` • `PyTorch` • `Hugging Face`
-
-**💬 Languages**
-
-`TypeScript` • `Python` • `R` • `C++`
-
-</div>
+```json
+{
+  "frontend": [
+    "React",
+    "Vue.js",
+    "Bootstrap"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Django",
+    "MongoDB",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "Docker",
+    "AWS",
+    "GitHub Actions"
+  ],
+  "ai/ml": [
+    "Keras",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face"
+  ],
+  "languages": [
+    "TypeScript",
+    "Python",
+    "R",
+    "C++"
+  ]
+}
+```
 
 ## 🌐 Socials
 
-<div align="center">
+```javascript
+const socials = {
+  github: "ary-na",
+  linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
+  twitter: "ArianNYamchelo",
+  website: "ariannyamchelo.netlify.app",
+  dribbble: "ArianNYamchelo",
+}
+```
 
-<a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://x.com/ArianNYamchelo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
-
+<div>
+<a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/ArianNYamchelo"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="ariannyamchelo.netlify.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
+```javascript
+const contact = {
+  email: "ariannajafi@outlook.com",
+}
+```
 
-**Email:** ariannajafi@outlook.com
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+process.exit(0); // Until next time 👋
+```
