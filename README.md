@@ -2,46 +2,157 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
+# Arian Najafi Yamchelo
 
-## Hi there! 👋
+```typescript
+const profile = {
+  name: "Arian Najafi Yamchelo",
+  bio: "Master’s graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.",
+  currentWork: "Working on an interactive social media platform with a focus on gamified experiences.",
+  learning: "Develop proficiency in R programming for data science applications.",
+  interests: "AI/ML,UI/UX Design,Data Science,Software Development",
+  skills: [
+    "React",
+    "Vue.js",
+    "Bootstrap",
+    "Node.js",
+    "Express",
+    "Django",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "GitHub Actions",
+    "Keras",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face",
+    "TypeScript",
+    "Python",
+    "R",
+    "C++"
+  ],
+}
+```
 
-I'm Arian N. Yamchelo, a passionate developer based in Melbourne, Australia. I love creating impactful applications that enhance user experiences and streamline processes. Let's build something amazing together!
+## 🔭 I'm currently working on
 
-## About Me
+Working on an interactive social media platform with a focus on gamified experiences.
 
-I'm a software developer with a strong focus on web development and application design. Currently located in Melbourne, I enjoy working on diverse projects that challenge my skills and encourage creativity.
+## 🌱 I'm currently learning
 
-## Skills & Technologies
+Develop proficiency in R programming for data science applications.
 
-vue,html,css,php,java,docker,graphql,express,mongodb,git,github,aws,sqlite,flutter,nodejs,redis,jest,bootstrap,selenium,wordpress
+## 👀 I'm interested in
 
-## Top Projects
+AI/ML, UI/UX Design, Data Science, Software Development
 
-- [jj-backend](https://github.com/ary-na/jj-backend): This is the back-end for a subscription-based website that allows users to translate books into their native language. ⭐️ 0
-- [jj-frontend](https://github.com/ary-na/jj-frontend): A frontend project for the aforementioned backend. ⭐️ 0
-- [Melbourne-Eats](https://github.com/ary-na/Melbourne-Eats): A system that keeps a list of restaurants from which users can order food, allowing discounts on combined orders. ⭐️ 0
-- [ap](https://github.com/ary-na/ap): My portfolio website, a curated showcase of my creative endeavors and professional work. ⭐️ 0
-- [Lunardo-Cinema](https://github.com/ary-na/Lunardo-Cinema): A project developed for cinema management. ⭐️ 0
+## 👀 Visitor Count
 
-## GitHub Stats
+<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ary-na/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
-🏆 Public Repositories: **32**  
-👥 Followers: **4**  
-📈 Following: **3**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
 
-## Recent Activity
+<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
 
-1. Pushed to [ary-na](https://github.com/ary-na/ary-na) on **November 28, 2025**  
-2. Created a pull request in [jj-backend](https://github.com/ary-na/jj-backend) on **December 20, 2024**  
-3. Opened issues in [Melbourne-Eats](https://github.com/ary-na/Melbourne-Eats) on **December 31, 2023**  
-4. Updated [ap](https://github.com/ary-na/ap) on **November 16, 2024**  
-5. Committed changes in [Lunardo-Cinema](https://github.com/ary-na/Lunardo-Cinema) on **December 31, 2023**
+## 📊 GitHub Stats
 
-## Latest Blog Posts
+<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-Check out my latest articles on my [blog](https://ariannyamchelo.netlify.app)!
+## 🔝 Most Used Languages
 
-## Connect with Me
+<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
-{"linkedin":"https://www.linkedin.com/in/arian-najafi-yamchelo/","twitter":"https://twitter.com/ArianNYamchelo"}
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=dark&hide_border=false" />
+</div>
+
+## 🐦 Latest Tweet
+
+<!-- ⚠️ Important: Replace 'ArianNYamchelo' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ArianNYamchelo" /></a>
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React",
+    "Vue.js",
+    "Bootstrap"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Django",
+    "MongoDB",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "Docker",
+    "AWS",
+    "GitHub Actions"
+  ],
+  "ai/ml": [
+    "Keras",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face"
+  ],
+  "languages": [
+    "TypeScript",
+    "Python",
+    "R",
+    "C++"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "ary-na",
+  linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
+  twitter: "ArianNYamchelo",
+  website: "ariannyamchelo.netlify.app",
+  dribbble: "ArianNYamchelo",
+}
+```
+
+<div>
+<a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/ArianNYamchelo"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="ariannyamchelo.netlify.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "ariannajafi@outlook.com",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
