@@ -48,10 +48,8 @@ Develop proficiency in R programming for data science applications.
 AI/ML, UI/UX Design, Data Science, Software Development
 
 ## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ary-na/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ary-na&style=flat-round&color=blue" alt="Profile views"/>
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
