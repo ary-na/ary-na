@@ -2,100 +2,46 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
 
-# Hi 👋, I'm Arian Najafi Yamchelo
 
-**Master’s graduate in Computer Science | Passionate about software development and AI | Always learning and building**
+## Hi there! 👋
 
-## 🔭 I'm currently working on
+I'm Arian N. Yamchelo, a passionate developer based in Melbourne, Australia. I love creating impactful applications that enhance user experiences and streamline processes. Let's build something amazing together!
 
-Developing an interactive social media platform enhanced with engaging gamification features.
+## About Me
 
-## 👀 Visitor Count
+I'm a software developer with a strong focus on web development and application design. Currently located in Melbourne, I enjoy working on diverse projects that challenge my skills and encourage creativity.
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ary-na/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+## Skills & Technologies
 
-## 🏆 GitHub Trophies
+vue,html,css,php,java,docker,graphql,express,mongodb,git,github,aws,sqlite,flutter,nodejs,redis,jest,bootstrap,selenium,wordpress
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
+## Top Projects
 
-## 📊 GitHub Stats
+- [jj-backend](https://github.com/ary-na/jj-backend): This is the back-end for a subscription-based website that allows users to translate books into their native language. ⭐️ 0
+- [jj-frontend](https://github.com/ary-na/jj-frontend): A frontend project for the aforementioned backend. ⭐️ 0
+- [Melbourne-Eats](https://github.com/ary-na/Melbourne-Eats): A system that keeps a list of restaurants from which users can order food, allowing discounts on combined orders. ⭐️ 0
+- [ap](https://github.com/ary-na/ap): My portfolio website, a curated showcase of my creative endeavors and professional work. ⭐️ 0
+- [Lunardo-Cinema](https://github.com/ary-na/Lunardo-Cinema): A project developed for cinema management. ⭐️ 0
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
+## GitHub Stats
 
-## 🔝 Most Used Languages
+🏆 Public Repositories: **32**  
+👥 Followers: **4**  
+📈 Following: **3**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=radical)
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=default"/>
-</div>
+## Recent Activity
 
-## 🔥 Contribution Streak
+1. Pushed to [ary-na](https://github.com/ary-na/ary-na) on **November 28, 2025**  
+2. Created a pull request in [jj-backend](https://github.com/ary-na/jj-backend) on **December 20, 2024**  
+3. Opened issues in [Melbourne-Eats](https://github.com/ary-na/Melbourne-Eats) on **December 31, 2023**  
+4. Updated [ap](https://github.com/ary-na/ap) on **November 16, 2024**  
+5. Committed changes in [Lunardo-Cinema](https://github.com/ary-na/Lunardo-Cinema) on **December 31, 2023**
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=default&hide_border=false" />
-</div>
+## Latest Blog Posts
 
-## 🐦 Latest Tweet
+Check out my latest articles on my [blog](https://ariannyamchelo.netlify.app)!
 
-<!-- ⚠️ Important: Replace 'ArianNYamchelo' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ArianNYamchelo" /></a>
-</div>
+## Connect with Me
 
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=for-the-badge&logo=vue.js&logoColor=white" /> 
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Django-4169e1?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-9370db?style=for-the-badge&logo=aws&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> 
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-00CED1?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-00CED1?style=for-the-badge&logo=keras&logoColor=white" /> 
-
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arian-najafi-yamchelo/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ArianNYamchelo) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ary-na) 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [ariannajafi@outlook.com](mailto:ariannajafi@outlook.com)
-
-</div>
-
----
-⭐️ From [Arian Najafi Yamchelo](https://github.com/ary-na)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ary-na/count.svg" alt="Visitor Count" />
-</div>
-
+{"linkedin":"https://www.linkedin.com/in/arian-najafi-yamchelo/","twitter":"https://twitter.com/ArianNYamchelo"}
