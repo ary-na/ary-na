@@ -47,12 +47,6 @@ Develop proficiency in R programming for data science applications.
 
 AI/ML, UI/UX Design, Data Science, Software Development
 
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ary-na&style=flat-round&color=blue" alt="Profile views"/>
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
@@ -147,3 +141,9 @@ console.log("Let's connect and collaborate on exciting projects!");
 
 process.exit(0); // Until next time 👋
 ```
+
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ary-na&style=flat-round&color=blue" alt="Profile views"/>
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
