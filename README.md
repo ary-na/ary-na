@@ -39,20 +39,6 @@ AI/ML, UI/UX Design, Data Science, Software Development
   <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
-## 📊 GitHub Stats
-
-<!-- Replace YOUR-INSTANCE with your own Vercel deployment URL -->
-<div align="center">
-  <img height="180em" src="https://YOUR-INSTANCE.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- Replace YOUR-INSTANCE with your own Vercel deployment URL -->
-<div align="center">
-  <img height="180em" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -77,7 +63,7 @@ AI/ML, UI/UX Design, Data Science, Software Development
 const socials = {
   github: "ary-na",
   linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
-  twitter: "ariiIi4n",
+  twitter: "ariiii4n",
   website: "arii.dev",
   dribbble: "ArianNYamchelo",
 }
