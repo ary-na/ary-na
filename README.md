@@ -74,7 +74,7 @@ const socials = {
   <a href="https://www.linkedin.com/in/arian-najafi-yamchelo"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/ariiii4n"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://arii.dev"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://dribbble.com/ariiiian"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </div>
 
 ## 📫 How to reach me
