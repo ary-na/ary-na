@@ -65,7 +65,7 @@ const socials = {
   linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
   twitter: "ariiii4n",
   website: "arii.dev",
-  dribbble: "ArianNYamchelo",
+  dribbble: "ariiiian",
 }
 ```
 
