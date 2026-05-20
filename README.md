@@ -7,30 +7,16 @@
 ```typescript
 const profile = {
   name: "Arian Najafi Yamchelo",
-  bio: "Master’s graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.",
+  bio: "Master's graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.",
   currentWork: "Working on an interactive social media platform with a focus on gamified experiences.",
   learning: "Develop proficiency in R programming for data science applications.",
-  interests: "AI/ML,UI/UX Design,Data Science,Software Development",
+  interests: "AI/ML, UI/UX Design, Data Science, Software Development",
   skills: [
-    "React",
-    "Vue.js",
-    "Bootstrap",
-    "Node.js",
-    "Express",
-    "Django",
-    "MongoDB",
-    "PostgreSQL",
-    "Docker",
-    "AWS",
-    "GitHub Actions",
-    "Keras",
-    "TensorFlow",
-    "PyTorch",
-    "Hugging Face",
-    "TypeScript",
-    "Python",
-    "R",
-    "C++"
+    "React", "Vue.js", "Bootstrap",
+    "Node.js", "Express", "Django", "MongoDB", "PostgreSQL",
+    "Docker", "AWS", "GitHub Actions",
+    "Keras", "TensorFlow", "PyTorch", "Hugging Face",
+    "TypeScript", "Python", "R", "C++"
   ],
 }
 ```
@@ -41,7 +27,7 @@ Working on an interactive social media platform with a focus on gamified experie
 
 ## 🌱 I'm currently learning
 
-Develop proficiency in R programming for data science applications.
+Developing proficiency in R programming for data science applications.
 
 ## 👀 I'm interested in
 
@@ -49,65 +35,37 @@ AI/ML, UI/UX Design, Data Science, Software Development
 
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'ary-na' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ary-na&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=ary-na&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
 ```json
 {
-  "frontend": [
-    "React",
-    "Vue.js",
-    "Bootstrap"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "Django",
-    "MongoDB",
-    "PostgreSQL"
-  ],
-  "devops": [
-    "Docker",
-    "AWS",
-    "GitHub Actions"
-  ],
-  "ai/ml": [
-    "Keras",
-    "TensorFlow",
-    "PyTorch",
-    "Hugging Face"
-  ],
-  "languages": [
-    "TypeScript",
-    "Python",
-    "R",
-    "C++"
-  ]
+  "frontend": ["React", "Vue.js", "Bootstrap"],
+  "backend": ["Node.js", "Express", "Django", "MongoDB", "PostgreSQL"],
+  "devops": ["Docker", "AWS", "GitHub Actions"],
+  "ai/ml": ["Keras", "TensorFlow", "PyTorch", "Hugging Face"],
+  "languages": ["TypeScript", "Python", "R", "C++"]
 }
 ```
 
@@ -118,13 +76,17 @@ const socials = {
   github: "ary-na",
   linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
   twitter: "ArianNYamchelo",
-  website: "ariannyamchelo.netlify.app",
+  website: "arii.dev",
   dribbble: "ArianNYamchelo",
 }
 ```
 
 <div>
-<a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/ArianNYamchelo"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://ariannyamchelo.netlify.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a> 
+  <a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/ariii4n"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://arii.dev"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </div>
 
 ## 📫 How to reach me
@@ -143,6 +105,7 @@ process.exit(0); // Until next time 👋
 ```
 
 ## 👀 Visitor Count
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ary-na&style=flat-round&color=blue" alt="Profile views"/>
   <br>Thank you for visiting my profile! Come back soon!
