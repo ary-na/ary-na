@@ -41,20 +41,22 @@ AI/ML, UI/UX Design, Data Science, Software Development
 
 ## 📊 GitHub Stats
 
+<!-- Replace YOUR-INSTANCE with your own Vercel deployment URL -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://YOUR-INSTANCE.vercel.app/api?username=ary-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
+<!-- Replace YOUR-INSTANCE with your own Vercel deployment URL -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=ary-na&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ary-na&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ary-na&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
@@ -75,7 +77,7 @@ AI/ML, UI/UX Design, Data Science, Software Development
 const socials = {
   github: "ary-na",
   linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
-  twitter: "ArianNYamchelo",
+  twitter: "ariiIi4n",
   website: "arii.dev",
   dribbble: "ArianNYamchelo",
 }
@@ -83,8 +85,8 @@ const socials = {
 
 <div>
   <a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arian-najafi-yamchelo/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/ariii4n"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arian-najafi-yamchelo"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/ariiii4n"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://arii.dev"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://dribbble.com/ArianNYamchelo"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </div>
