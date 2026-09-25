@@ -4,93 +4,37 @@
 
 # Arian Najafi Yamchelo
 
-```typescript
-const profile = {
-  name: "Arian Najafi Yamchelo",
-  bio: "Master's graduate in Computer Science (AI) and a beginner developer passionate about creating and learning every day.",
-  currentWork: "Working on an interactive social media platform with a focus on gamified experiences.",
-  learning: "Develop proficiency in R programming for data science applications.",
-  interests: "AI/ML, UI/UX Design, Data Science, Software Development",
-  skills: [
-    "React", "Vue.js", "Bootstrap",
-    "Node.js", "Express", "Django", "MongoDB", "PostgreSQL",
-    "Docker", "AWS", "GitHub Actions",
-    "Keras", "TensorFlow", "PyTorch", "Hugging Face",
-    "TypeScript", "Python", "R", "C++"
-  ],
-}
-```
+**Full-stack + ML/AI** · Melbourne  
+Master’s in AI, Monash. I ship products, CLIs, and ML systems — then write about the process.
 
-## 🔭 I'm currently working on
+Open to **SWE · ML · full-stack**
 
-Working on an interactive social media platform with a focus on gamified experiences.
+[arii.dev](https://arii.dev) · [hi@arii.dev](mailto:hi@arii.dev) · [LinkedIn](https://linkedin.com/in/arian-najafi-yamchelo) · [X](https://x.com/ariiii4n)
 
-## 🌱 I'm currently learning
+---
 
-Developing proficiency in R programming for data science applications.
+## Selected work
 
-## 👀 I'm interested in
+| Project | What it is |
+|--------|------------|
+| [husk](https://github.com/ary-na/husk) | Native macOS uninstaller — leftover detection shared by SwiftUI GUI + CLI |
+| [hushlink](https://github.com/ary-na/hushlink) | Zero-knowledge one-time secrets (AES-256-GCM in the browser) |
+| [dtm](https://github.com/ary-na/dtm) | CLI / tooling (see write-up on arii.dev) |
+| [tsla-forecast](https://github.com/ary-na/tsla-forecast) | ML forecasting experiment |
 
-AI/ML, UI/UX Design, Data Science, Software Development
+More on [arii.dev/work](https://arii.dev/work/)
 
-## 🏆 GitHub Trophies
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ary-na&theme=onedark&column=7&margin-w=15&margin-h=15" />
-</p>
+## Stack I reach for
 
-## 🔥 Contribution Streak
+TypeScript · Next.js · Swift / SwiftUI · Python · AWS · ML tooling
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ary-na&theme=dark&hide_border=false" />
-</div>
+---
 
-## 💻 Tech Stack
+## Writing
 
-```json
-{
-  "frontend": ["React", "Vue.js", "Bootstrap"],
-  "backend": ["Node.js", "Express", "Django", "MongoDB", "PostgreSQL"],
-  "devops": ["Docker", "AWS", "GitHub Actions"],
-  "ai/ml": ["Keras", "TensorFlow", "PyTorch", "Hugging Face"],
-  "languages": ["TypeScript", "Python", "R", "C++"]
-}
-```
-
-## 🌐 Socials
-
-```javascript
-const socials = {
-  github: "ary-na",
-  linkedin: "https://www.linkedin.com/in/arian-najafi-yamchelo/",
-  twitter: "ariiii4n",
-  website: "arii.dev",
-  dribbble: "ariiiian",
-}
-```
-
-<div>
-  <a href="https://github.com/ary-na"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arian-najafi-yamchelo"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/ariiii4n"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://arii.dev"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://dribbble.com/ariiiian"><img src="https://img.shields.io/badge/dribbble-%23000000.svg?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-</div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "ariannajafi@outlook.com",
-}
-```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
+Notes on shipping: [arii.dev/blog](https://arii.dev/blog/)
 
 ## 👀 Visitor Count
 
